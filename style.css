@@ -119,17 +119,6 @@ header.shadow {
   z-index: 10001;
   display: none;
 }
-
-/* .dark-theme{
-  --primary-color: black;
-  --secondary-color: white;
-  }
-  
-  #icon-moon{
-  width: 30px;
-  cursor:pointer;
-  } */
-
 .home {
   position: relative;
   width: 100%;
@@ -305,17 +294,6 @@ header.shadow {
   background: #fff;
   color: var(--text-color);
 }
-/* .portfolio-container .box .content h3 {
-  color: #fff;
-  font-size: 1.1rem;
-  font-weight: 600;
-  margin: 10px;
-}
-.portfolio-container .box:hover .content {
-  top: 0;
-  transition: 0.2s;
-} */
-
 .carousel {
   box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
   overflow: hidden;
