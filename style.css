@@ -120,7 +120,7 @@ header.shadow {
   display: none;
 }
 
-.dark-theme{
+/* .dark-theme{
   --primary-color: black;
   --secondary-color: white;
   }
@@ -128,7 +128,7 @@ header.shadow {
   #icon-moon{
   width: 30px;
   cursor:pointer;
-  }
+  } */
 
 .home {
   position: relative;
