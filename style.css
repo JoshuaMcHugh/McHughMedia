@@ -50,9 +50,9 @@
 }
 
 
-/* :root {
+:root {
   --main-color: #000000;
-  --text-color: #363636; */
+  --text-color: #363636;
 }
 section {
   padding: 50px 10%;
