@@ -45,7 +45,7 @@
   transition: background 0.4s;
 }
 
-#contact-mchugh-media .btn:hover {
+#contact-mchugh-media .btn {
   background: black;
 }
 
